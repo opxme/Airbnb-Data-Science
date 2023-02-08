@@ -78,8 +78,28 @@ Scatter plot - correlations:  <br/>
 <img src="https://images2.imgbox.com/bc/bf/8aGyP1Tb_o.png" height="80%" width="80%" alt="Steps"/>
  <br />
 <br />
-Price histogram - the majority of prices revolve around 150$ - 175$:  <br/>
-<img src="https://images2.imgbox.com/b4/f1/RRsKWGl6_o.png" height="80%" width="80%" alt="Steps"/>
+Word cloud  <br/>
+<img src="https://images2.imgbox.com/54/58/Vpa5mlvV_o.png" height="40%" width="40%" alt="Steps"/>
+ 
+ <br />
+<br />
+Exploratory menu  <br/>
+<img src="https://images2.imgbox.com/8a/a6/LrW9BSn5_o.png" height="40%" width="40%" alt="Steps"/>
+ 
+ <br />
+<br />
+Evaluate listings price by selecting different attributes:  <br/>
+<img src="https://images2.imgbox.com/bc/b1/5BOCgR5o_o.png" height="40%" width="40%" alt="Steps"/>
+ 
+ <br />
+<br />
+The result consists of a density plot that shows the quantiles of the distribution.  <br/>
+<img src="https://images2.imgbox.com/94/fb/sMLaeeBG_o.png" height="100%" width="100%" alt="Steps"/>
+ 
+  <br />
+<br />
+Linear regression: actual values vs predicted values  <br/>
+<img src="https://images2.imgbox.com/fd/94/G1ouCgdi_o.png" height="100%" width="100%" alt="Steps"/>
  
 </p>
 
