@@ -51,11 +51,11 @@ Enter the number of passes: <br/>
 <br />
 <br />
 Confirm your selection:  <br/>
-<img src="https://images2.imgbox.com/d6/a0/99JTlxCs_o.png" height="100%" width="100%" alt="Disk Sanitization Steps"/>
+<img src="https://images2.imgbox.com/d6/a0/99JTlxCs_o.png" height="40%" width="100%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Wait for process to complete (may take some time):  <br/>
-<img src="https://i.imgur.com/JL945Ga.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://images2.imgbox.com/57/7a/CH7UMUHC_o.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Sanitization complete:  <br/>
