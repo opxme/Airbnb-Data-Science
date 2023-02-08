@@ -15,10 +15,21 @@ The project consists of a user interface that displays a menu with the following
 <br />
 
 
-<h2>Languages and Utilities Used</h2>
+<h2>Importe Libraries Used</h2>
 
-- <b>PowerShell</b> 
-- <b>Diskpart</b>
+- <b>pandas</b> 
+- <b>matplotlib</b>
+- <b>numpy</b>
+- <b>seaborn</b>
+- <b>tkinter</b>
+- <b>wordcloud</b>
+- <b>json</b>
+- <b>folium</b>
+- <b>geopandas</b>
+- <b>plotly</b>
+- <b>math</b>
+- <b>sklearn</b>
+
 
 <h2>Environments Used </h2>
 
