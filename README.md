@@ -1,6 +1,6 @@
-<h1>JWipe - Disk Sanitization</h1>
+<h1>Airbnb Barcelona data analysis</h1>
 
- ### [YouTube Demonstration](https://youtu.be/7eJexJVCqJo)
+
 
 <h2>Description</h2>
 <b>Project consists of an analysis of a csv file using python. </b> <br/>
@@ -54,16 +54,33 @@ Map showing listings ranked by price:  <br/>
 <img src="https://images2.imgbox.com/02/b0/ZaFnnyAC_o.png" height="40%" width="100%" alt="Steps"/>
 <br />
 <br />
-Wait for process to complete (may take some time):  <br/>
+Charts menu:  <br/>
 <img src="https://images2.imgbox.com/75/91/lPW8KRJ6_o.png" height="40%" width="40%" alt="Steps"/>
 <br />
 <br />
-Sanitization complete:  <br/>
+Price histogram - the majority of prices revolve around 150$ - 175$:  <br/>
 <img src="https://images2.imgbox.com/b4/f1/RRsKWGl6_o.png" height="80%" width="80%" alt="Steps"/>
 <br />
 <br />
-Observe the wiped disk:  <br/>
-<img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Steps"/>
+Pie chart of neighbourhood:  <br/>
+<img src="https://images2.imgbox.com/c9/eb/odiOxBnT_o.png" height="60%" width="60%" alt="Steps"/>
+ <br />
+<br />
+Barplot showing some insghts about amenities of some listings:  <br/>
+<img src="https://images2.imgbox.com/68/52/hEwAVGWH_o.png" height="80%" width="80%" alt="Steps"/>
+ <br />
+<br />
+Heatmap - showing correlation between price and other variables  <br/>
+<img src="https://images2.imgbox.com/02/54/uGP8lfqB_o.png" height="80%" width="80%" alt="Steps"/>
+ <br />
+<br />
+Scatter plot - correlations:  <br/>
+<img src="https://images2.imgbox.com/bc/bf/8aGyP1Tb_o.png" height="80%" width="80%" alt="Steps"/>
+ <br />
+<br />
+Price histogram - the majority of prices revolve around 150$ - 175$:  <br/>
+<img src="https://images2.imgbox.com/b4/f1/RRsKWGl6_o.png" height="80%" width="80%" alt="Steps"/>
+ 
 </p>
 
 <!--
