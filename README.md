@@ -39,31 +39,31 @@ The project consists of a user interface that displays a menu with the following
 
 <p align="center">
 User interface: <br/>
-<img src="https://images2.imgbox.com/7f/83/MOXBvAie_o.png" height="40%" width="40%" alt="Disk Sanitization Steps"/>
+<img src="https://images2.imgbox.com/7f/83/MOXBvAie_o.png" height="40%" width="40%" alt="Steps"/>
 <br />
 <br />
-Select the disk:  <br/>
-<img src="https://images2.imgbox.com/fb/db/rCzjw2GA_o.png" height="40%" width="40%" alt="Data analysis steps"/>
+Maps menu:  <br/>
+<img src="https://images2.imgbox.com/fb/db/rCzjw2GA_o.png" height="40%" width="40%" alt="Steps"/>
 <br />
 <br />
-Enter the number of passes: <br/>
-<img src="https://images2.imgbox.com/a9/f9/TIkKBmqR_o.png" height="100%" width="100%" alt="Disk Sanitization Steps"/>
+Map showing neigbourhoods ranked by median price of listings: <br/>
+<img src="https://images2.imgbox.com/a9/f9/TIkKBmqR_o.png" height="100%" width="100%" alt="Steps"/>
 <br />
 <br />
-Confirm your selection:  <br/>
-<img src="https://images2.imgbox.com/d6/a0/99JTlxCs_o.png" height="40%" width="100%" alt="Disk Sanitization Steps"/>
+Map showing listings ranked by price:  <br/>
+<img src="https://images2.imgbox.com/02/b0/ZaFnnyAC_o.png" height="40%" width="100%" alt="Steps"/>
 <br />
 <br />
 Wait for process to complete (may take some time):  <br/>
-<img src="https://images2.imgbox.com/57/7a/CH7UMUHC_o.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://images2.imgbox.com/75/91/lPW8KRJ6_o.png" height="40%" width="40%" alt="Steps"/>
 <br />
 <br />
 Sanitization complete:  <br/>
-<img src="https://i.imgur.com/K71yaM2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://images2.imgbox.com/b4/f1/RRsKWGl6_o.png" height="80%" width="80%" alt="Steps"/>
 <br />
 <br />
 Observe the wiped disk:  <br/>
-<img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Steps"/>
 </p>
 
 <!--
