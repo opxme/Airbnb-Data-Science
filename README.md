@@ -66,7 +66,7 @@ Pie chart of neighbourhood:  <br/>
 <img src="https://images2.imgbox.com/c9/eb/odiOxBnT_o.png" height="60%" width="60%" alt="Steps"/>
  <br />
 <br />
-Barplot showing some insghts about amenities of some listings:  <br/>
+Barplot showing most popular amenities and the amenities correlated with the highest prices:  <br/>
 <img src="https://images2.imgbox.com/68/52/hEwAVGWH_o.png" height="80%" width="80%" alt="Steps"/>
  <br />
 <br />
@@ -98,7 +98,7 @@ The result consists of a density plot that shows the quantiles of the distributi
  
   <br />
 <br />
-Linear regression: actual values vs predicted values  <br/>
+Create a simple linear regression model that predicts listing prices: <br/> below it shows actual values along with predicted values and calculated RMSE value <br/>
 <img src="https://images2.imgbox.com/fd/94/G1ouCgdi_o.png" height="100%" width="100%" alt="Steps"/>
  
 </p>
